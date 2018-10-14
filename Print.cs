@@ -6,7 +6,7 @@ namespace GitReferenceTest
     {
         public void SomeText()
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello world");
         }
 
     }
